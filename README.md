@@ -2,9 +2,9 @@
 This repository contains data and Jupyter notebooks to reproduce figures in  Vecellio et al (2023) (https://doi.org/10.1073/pnas.2305427120).
 
 The "Data" directory contains the following files:
-CITIES.xlsx: population and annual hot hours of selected cities
-Tw_tot_hothours_preindustrial_1C.nc: annual total hot hours under +1C warming compared with preindustrial period
-Tw_tot_hothours_preindustrial_1.5C.nc: annual total hot hours under +1.5C warming compared with preindustrial period
+- CITIES.xlsx: population and annual hot hours of selected cities
+- Tw_tot_hothours_preindustrial_1C.nc: annual total hot hours under +1C warming compared with preindustrial period
+- Tw_tot_hothours_preindustrial_1.5C.nc: annual total hot hours under +1.5C warming compared with preindustrial period
 Tw_tot_hothours_preindustrial_2C.nc: annual total hot hours under +2C warming compared with preindustrial period
 Tw_tot_hothours_preindustrial_2.5C.nc: annual total hot hours under +2.5C warming compared with preindustrial period
 Tw_tot_hothours_preindustrial_3C.nc: annual total hot hours under +3C warming compared with preindustrial period
